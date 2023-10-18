@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PW assignment</title>
+</head>
+
+<body>
+    <div class="">
+        <form action="/add" method="POST" target="_blank">
+            <input type="text" name="name" placeholder="Enter the Name">
+            <input type="number" name="salary" placeholder="Enter the Salary">
+            <input type="text" name="currency" placeholder="Enter the currency">
+            <input type="text" name="department" placeholder="Enter the Deparment">
+            <input type="text" name="sub_department" placeholder="Enter the Sub Deparment">
+            <input type="radio" name="on_contract" value="false" id="false" placeholder="True/False">
+            <label for="false">false</label>
+            <input type="radio" name="on_contract" value="true" id="true" placeholder="True/False">
+            <label for="true">true</label>
+            <br>
+            <button type="submit">Add</button>
+        </form>
+    </div>
+    <br><br>
+    <div class="">
+        <form action="/allSS" method="GET" target="_blank">
+            <button type="submit">Get data</button>
+        </form>
+    </div>
+
+    <div class="">
+        <form action="getSSContract" method="GET" target="_blank">
+            <button type="submit">Get data based on Contract</button>
+        </form>
+    </div>
+
+    <div class="">
+        <form action="DeptSS" method="GET" target="_blank">
+            <button type="submit">Get data based on department</button>
+        </form>
+    </div>
+
+    <div class="">
+        <form action="getSSCombine" method="GET" target="_blank">
+            <button type="submit">Get data based on department and sub_Department</button>
+        </form>
+    </div>
+
+    <div class="">
+        <form action="delete" method="POST" target="_blank">
+            <button type="submit">Delete Data</button>
+        </form>
+    </div>
+
+    <div class="result" id="result">
+    </div>
+</body>
+
+</html>
