@@ -28,18 +28,17 @@ exports.getLogin = async (req, res) => {
 exports.login = async (req, res, next) => {
     const email = req.body.mail;
     const password = req.body.passsword;
-    console.log(email, password);
+    // console.log(email, password);
 
     const olduser = await User.findOne({ email: email }).select("+password");
     const checkPass = await olduser.correctPassword(password, olduser.password);
-    console.log(checkPass);
-    console.log(olduser);
+    // console.log(checkPass);
+    // console.log(olduser);
 
     if (olduser || checkPass) {
         const Token = jwt.sign({ id: olduser._id }, process.env.JWT_SECRET, {
             expiresIn: process.env.JWT_expiry
         });
-        console.log(" chala");
         res.status(200).redirect("/add");
     }
     else {
