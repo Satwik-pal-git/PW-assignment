@@ -28,11 +28,10 @@ As per the order in the assignment, API 1(addition of new record) and 2(deletion
 5th API:<br>
 ![3 1](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/35434c3d-0a52-41f6-a00d-cae052ad8b18)
 ![3 2](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/ad23c97d-9857-40d1-b02d-ba73621199a1)
-![4](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/6eecc162-15e4-44a3-bd6c-ccded07d4f37)
 
 <br>
 6th API:<br>
-
+![4](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/6eecc162-15e4-44a3-bd6c-ccded07d4f37)
 <br>
 _[Note]: I have used JSON Formatter to convert the raw format to parsed format_
 
