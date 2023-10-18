@@ -19,18 +19,20 @@
 As per the order in the assignment, API 1(addition of new record) and 2(deletion of new record) are working as expected, <br>
 3rd API:
 <br>
+![1](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/66392a95-d6d9-45fa-a5b9-1763e21e6f11)
 
-![1](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/e3e77d0c-36f2-452f-a1da-8875ac0c2507)
 <br>
-4th API:<br>
-![2](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/20942946-3bda-4478-910b-e0f06015a511)
+4th API:<br>![2](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/168e099e-a93a-4d7a-816b-1582eb8faf5b)
+
 <br>
 5th API:<br>
-![3 1](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/d0475ddd-59eb-49cc-8061-7b3fb8fbd5c9)
-![3 2](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/58e4775b-6c06-4e5d-81a0-1c248543ea28)
+![3 1](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/35434c3d-0a52-41f6-a00d-cae052ad8b18)
+![3 2](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/ad23c97d-9857-40d1-b02d-ba73621199a1)
+![4](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/6eecc162-15e4-44a3-bd6c-ccded07d4f37)
+
 <br>
 6th API:<br>
-![4](https://github.com/Satwik-pal-git/PW-assignment/assets/83872791/2d4a329d-6c58-4280-a1fd-548e2f244b1f)
+
 <br>
 _[Note]: I have used JSON Formatter to convert the raw format to parsed format_
 
